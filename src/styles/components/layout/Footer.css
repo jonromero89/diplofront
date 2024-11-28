@@ -1,0 +1,12 @@
+.piedepagina {
+    background-color: #dff0de;
+    clear: both;
+    color: green;
+    text-align: center;
+    padding: 5px 0;
+    margin-top: 20px;
+}
+
+.piedepagina p {
+    text-align: center;
+}

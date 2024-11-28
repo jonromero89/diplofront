@@ -1,0 +1,32 @@
+nav {
+    background-color: #E5E5EA;
+    margin-bottom: 10px;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+}
+
+nav ul li {
+    flex-grow: 1;
+}
+
+nav ul li a {
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 3px 6px;
+    display: block;
+    text-align: center;
+}
+
+nav ul li a:hover {
+    background-color: #caeba8;
+}
+
+nav ul li a.activo {
+    background-color: #caeba8;
+}

@@ -1,0 +1,15 @@
+.holdercontacto {
+    max-width: 600px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid darkgreen;
+    place-items: center;
+    
+}
+
+.holdercontacto input {
+    width: 250px;
+    margin-left: 10px;
+    display: a
+}

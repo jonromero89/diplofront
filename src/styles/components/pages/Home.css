@@ -1,0 +1,35 @@
+.homeimg {
+    width: 100%;
+  height: auto;
+  margin-top: 20px;
+   
+  }
+
+  .homeimg img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    animation: opacidad 5s infinite;
+    border-radius: 10px 10px 40px 40px;
+  }
+
+  .holder .bienvenidos h2 {
+    color: darkred;
+    font-size: 40px;
+  }
+
+.bienvenidos p {
+  font-size: 25px;
+}
+
+  @keyframes opacidad {
+    0% {
+      opacity: 0.6;
+    }
+    50% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 0.6;
+    }
+  }

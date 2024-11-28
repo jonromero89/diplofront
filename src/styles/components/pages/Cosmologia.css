@@ -1,0 +1,78 @@
+p {
+  font-size: 18px;
+  line-height: 1.5;
+  text-align: justify;
+}
+
+.cosmologia1 {
+  width: 35%; 
+  height: auto; 
+  margin: 10px 0; 
+  border-radius: 10px; 
+  float: right; 
+  margin-left: 20px; 
+}
+
+.cosmologia2 {
+  width: 50%; 
+  height: auto; 
+  margin: 10px 0; 
+  border-radius: 10px; 
+  float: left; 
+  margin-right: 20px; 
+
+}
+.cosmologia3 {
+  width: 40%; 
+  height: auto; 
+  margin: 10px 0; 
+  border-radius: 10px; 
+  float: right; 
+  margin-left: 20px; 
+}
+
+
+.columna2 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 100%;
+}
+
+.textomundos {
+  font-weight: bold;
+  line-height: 2;
+  width: 40%;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.imagenmundos {
+  width: 60%;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.imagenmundos img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.reinos {
+  list-style: upper-roman;
+  padding-right: 10px;
+  margin: 0;
+}
+
+.li {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.losnuevemundos {
+  color: darkred;
+  font-size: 40px;
+  text-align: center;
+}

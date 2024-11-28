@@ -1,0 +1,28 @@
+.novedadestitulo{
+    color: darkred;
+    font-size: 30px;
+}
+
+.novedadesholder h2 {
+    font-size: 35px;
+    color: black;
+    
+}
+
+.novedadesholder p {
+    font-size: 30px;
+    color: black;
+    
+}
+
+.novedadesholder {
+    font-size: 20px;
+    color: black;
+    line-height: 1;
+    max-width: 940px;
+    margin: 0 auto;
+}
+
+.novedadesholder img {
+    border-radius: 10px;
+}
